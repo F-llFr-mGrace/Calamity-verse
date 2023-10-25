@@ -1,4 +1,4 @@
-week 1
+	week 1
 
 //This week
 Characters | 0
@@ -9,19 +9,19 @@ Items | 0
 //Total
 Characters | 0
 Creatures | 0
-Places | 3
+Places | 0 + 3
 Items | 0
 
-week 2
+	week 2
 
 //This week
 Characters | 0
 Creatures | 0
-Places | 0
-Items | 0.5
+Places | 3
+Items | 1
 
 //Total
 Characters | 0
 Creatures | 0
 Places | 3
-Items | 0
+Items | 0 + 1
