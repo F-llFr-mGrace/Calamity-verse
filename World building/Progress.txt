@@ -15,13 +15,13 @@ Items | 0
 	week 2
 
 //This week
-Characters | 0
+Characters | 1
 Creatures | 0
 Places | 3
 Items | 1
 
 //Total
-Characters | 0
+Characters | 0 + 1
 Creatures | 0
 Places | 3
 Items | 0 + 1
