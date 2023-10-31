@@ -12,12 +12,14 @@ Creatures | 0
 Places | 0 + 3
 Items | 0
 
+All | 3
+
 	week 2
 
 //This week
 Characters | 1
 Creatures | 0
-Places | 3
+Places | 0
 Items | 1
 
 //Total
@@ -25,3 +27,21 @@ Characters | 0 + 1
 Creatures | 0
 Places | 3
 Items | 0 + 1
+
+All | 5
+
+	week 3
+
+//This week
+Characters | 0
+Creatures | 1
+Places | 0
+Items | 0
+
+//Total
+Characters | 1
+Creatures | 0 + 1
+Places | 3
+Items | 1
+
+All | 6
