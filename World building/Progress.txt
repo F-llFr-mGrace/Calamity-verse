@@ -34,14 +34,14 @@ All | 5
 
 //This week
 Characters | 0
-Creatures | 1.5
+Creatures | 2
 Places | 0
 Items | 0
 
 //Total
 Characters | 1
-Creatures | 0 + 1.5
+Creatures | 0 + 2
 Places | 3
 Items | 1
 
-All | 6.5
+All | 7
